@@ -152,6 +152,6 @@
 
 <section class="catui-item" id="sider-copyright">
     <div class="sider-content">
-        &copy; <?php echo date("Y"); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php echo $this->options->title(); ?></a> Theme By <a href="https://github.com/theme-catui/typecho-theme-catui-season" target="_blank">Cat UI Season</a>
+        &copy; <?php echo date("Y"); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php echo $this->options->title(); ?></a><br>Theme By <a href="https://github.com/theme-catui/typecho-theme-catui-season" target="_blank">Cat UI Season</a>
     </div><!-- .sider-content -->
 </section><!-- #sider-copyright -->
