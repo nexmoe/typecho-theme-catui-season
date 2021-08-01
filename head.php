@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.css">
         <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
         <link rel="stylesheet" href="https://at.alicdn.com/t/font_957446_4fy8nut2joi.css">
-        <link rel="stylesheet" href="<?php $this->options->themeUrl('app.main.css?v=18.1.5.1'); ?>">
+        <link rel="stylesheet" href="<?php $this->options->themeUrl('app.css?v=21.8.1.1'); ?>">
         <?php $this->header('generator=&template=&pingback=&xmlrpc=&wlw=&commentReply=&rss1=&rss2=&atom='); ?>
         <style type="text/css">
             <?php $this->options->css(); ?>

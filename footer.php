@@ -10,4 +10,4 @@
 <?php $this->options->tongji();echo "\n"; ?>
 <script src="https://cdnjs.loli.net/ajax/libs/instantclick/3.0.1/instantclick.js"></script>
 <script data-no-instant>InstantClick.init();</script>
-<script src="<?php $this->options->themeUrl('app.main.js?v=18.8.29.20'); ?>"></script>
+<script src="<?php $this->options->themeUrl('app.js?v=21.8.1.1'); ?>"></script>
