@@ -37,7 +37,7 @@ $comments->alt(' comment-odd', ' comment-even');
     <div id="<?php $comments->theId(); ?>">
          <?php
             $host = 'https://avatar.mixcm.com';
-            $url = '/gavatar/';
+            $url = '/gravatar/';
             $size = '100';
             $rating = Helper::options()->commentsAvatarRating;
             $hash = md5(strtolower($comments->mail));
