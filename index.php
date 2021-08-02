@@ -1,7 +1,7 @@
 <?php 
 /**
  * Cat UI 情托于物。人情冷暖，世态炎凉。
- * @package Cat UI Seasons
+ * @package Cat UI Season
  * @author 折影轻梦 
  * @version 1.0
  * @link http://nexmoe.com/ 
